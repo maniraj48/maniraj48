@@ -33,7 +33,7 @@ AI · MACHINE LEARNING · GENERATIVE AI · SOFTWARE ENGINEERING
 
 ---
 
-## 01 / ABOUT ME
+## 01 ABOUT ME
 
 I'm an Information Technology undergraduate at **ACE Engineering College**, graduating in 2027, with a strong interest in Artificial Intelligence and Machine Learning.
 
@@ -46,14 +46,12 @@ I focus on developing intelligent applications, experimenting with modern AI tec
 - 🔍 Interested in explainable AI, automation and real-world problem solving.
 - ✍️ Writing about technology, programming and continuous learning.
 
-## 02 / TECHNICAL SKILLS
+## 02 TECHNICAL SKILLS
 
 **PROGRAMMING LANGUAGES**
 
 ![Python](https://img.shields.io/badge/Python-181818?style=flat-square&logo=python&logoColor=3776AB)
 ![Java](https://img.shields.io/badge/Java-181818?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-181818?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-181818?style=flat-square&logo=cplusplus&logoColor=00599C)
 
 **ARTIFICIAL INTELLIGENCE & MACHINE LEARNING**
 
@@ -92,7 +90,7 @@ I focus on developing intelligent applications, experimenting with modern AI tec
 
 ---
 
-## 03 / EXPERIENCE
+## 03 EXPERIENCE
 
 ### AI Intern
 **Infosys Springboard 7.0**  
@@ -142,7 +140,7 @@ Developed an end-to-end waste classification system using a Convolutional Neural
 
 ---
 
-## 04 / FEATURED PROJECTS
+## 04 FEATURED PROJECTS
 
 <table>
 <tr>
@@ -245,7 +243,7 @@ An AI-powered agricultural intelligence platform developed as part of the Infosy
 
 ---
 
-## 05 / CERTIFICATIONS
+## 05 CERTIFICATIONS
 
 - **Anthropic** — AI Fluency
 - **Cisco Networking Academy** — Python Essentials 1
@@ -253,7 +251,7 @@ An AI-powered agricultural intelligence platform developed as part of the Infosy
 
 ---
 
-## 06 / CURRENTLY EXPLORING
+## 06 CURRENTLY EXPLORING
 
 | Domain | Learning Focus |
 |:---|:---|
@@ -275,7 +273,7 @@ I enjoy documenting technical concepts, sharing learning experiences, and explor
 
 ---
 
-## 08 / CONNECT WITH ME
+## 08 CONNECT WITH ME
 
 <div align="center">
 
